@@ -1,20 +1,20 @@
 {
-  "name": "template",
+  "name": "cloudinary-jquery-js-responsive-images",
   "version": "0.1.0",
-  "description": "FreeCodeCamp, Zipline Project, template.",
+  "description": "Test environment for Cloudinary responsive image manipulation with jQuery and JavaScript",
   "author": "Gilbert Joseph Smith III",
   "license": "MIT",
-  "homepage": "https://github.com/GJSmith3rd/template#readme",
+  "homepage": "https://github.com/GJSmith3rd/Cloudinary-jQuery-JS-Responsive-Images#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GJSmith3rd/template.git"
+    "url": "https://github.com/GJSmith3rd/Cloudinary-jQuery-JS-Responsive-Images.git"
   },
   "scripts": {
     "init": "npm install",
     "start": "app.js"
   },
   "bugs": {
-    "url": "https://github.com/GJSmith3rd/template/issues"
+    "url": "https://github.com/GJSmith3rd/Cloudinary-jQuery-JS-Responsive-Images/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.12.3",

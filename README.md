@@ -1,6 +1,6 @@
-# [Template](http://s.codepen.io/GJSmith3rd/debug/template)
+# [Cloudinary-jQuery-JS-Responsive-Images](https://github.com/GJSmith3rd/Cloudinary-jQuery-JS-Responsive-Images)
 --------------------------------
-#### A FreeCodeCamp Project.
+#### A test environment for Cloudinary responsive image manipulation with jQuery and JavaScript.
 
 [mobileCreature Web Design Studio](http://mobilecreature.github.io/)
 --------------------------------

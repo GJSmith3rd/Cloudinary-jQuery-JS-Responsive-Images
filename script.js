@@ -1,2 +1,2 @@
 /*! (c) 2016 mobileCreature - GJSmith3rd - Gilbert Joseph Smith III (MIT) */
-$(document).ready(function(){});
+$(document).ready(function(){var e=!0;/^10.0.0/.test(location.hostname)&&e?$(".adsense").remove():$.getScript("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")});
